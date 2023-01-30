@@ -1,0 +1,15 @@
+The back-end for the booking form on the Little Lemon website. The requirements are below:
+
+Django app is added to the installed apps list in the settings file
+Database configuration(MYSql) is updated in the settings file
+Migrations have been performed
+Booking form has three fields: First Name, Reservation Date, Reservation Slot
+Reservation date field on booking form opens a date selector
+Bookings available as JSON data on the reservations page
+Duplicate bookings prohibited on specific date and time if slot already booked
+Changing date refreshes booking data
+Duplicate bookings on specific date and time unavailable if slot already booked
+Bookings for specific date displayed using the API
+"No Booking" message shows for date without bookings
+Fetch API used to retrieve data from the API
+Current date automatically selected when opening the booking form
