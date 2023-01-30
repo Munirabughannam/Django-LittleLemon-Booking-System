@@ -1,4 +1,4 @@
-The back-end for the booking form on the Little Lemon website. The requirements are below:
+The back-end for the booking form on the Little Lemon website. The project provides a user-friendly way for users to book a slot for a specific date and time, with all relevant information easily accessible and updated in real-time. The requirements are below:
 
 Django app is added to the installed apps list in the settings file
 Database configuration(MYSql) is updated in the settings file
